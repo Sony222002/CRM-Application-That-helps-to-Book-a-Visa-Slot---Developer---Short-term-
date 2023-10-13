@@ -1,1 +1,35 @@
+Name - ALLURI SONALI
+LEARNING TRACK - DEVELOPER
+Email - alluri.sonali@gmail.com
+Trailhead Profile - https://www.salesforce.com/trailblazer/sonalialluri7635
+Username (Developer Org) - alluri.sonali@gdcproject.com
+Contact - 7993025876
+
+Name - UNDRALLA SIRISHA
+LEARNING TRACK - DEVELOPER
+Email - sirishaundralla@gmail.com
+Trailhead Profile - https://www.salesforce.com/trailblazer/sirishaundralla0544
+Username (Developer org) - sirishaundralla@gdcproject.com
+Contact - 9885927056
+
+Name - GENDETI DEEPIKA
+LEARNING TRACK - DEVELOPER
+Email - deepikagendeti@gmail.com
+Trailhead profile - https://www.salesforce.com/trailblazer/deepikagendeti
+Username(Developer org) - deepikagendeti@gdcproject.com
+Contact - 8919112320
+
+Name - VULAVA VIJAYAKUMARI
+LEARNING TRACK - DEVELOPER
+Email - vulavavijayakumari@gmail.com
+Trailhead Profile - https://www.salesforce.com/trailblazer/vijayakumarivulava
+Username (Developer org) - V.vijayakumarimscs@gdcproject.com
+Contact - 7780446742
+
+Name -  MEKALATHURI GNANAPRASANNA
+LEARNING TRACK - DEVELOPER
+Email - mekalathurignanaprasanna@gmail.com
+Trailhead Profile - https://www.salesforce.com/trailblazer/gnanaprasannamekalathuri
+User name - mekalathurignanaprasanna@gdcproject.com
+Contact - 9398239940
 
